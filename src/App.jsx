@@ -10,7 +10,7 @@ import { Route, Routes } from "react-router-dom";
 import Dashboard from "./pages/Admin/Dashboard.jsx";
 import AllAppointment from "./pages/Admin/AllAppointment.jsx";
 import AddDoctor from "./pages/Admin/AddDoctor.jsx";
-import DoctorList from "./pages/Admin/doctorlist.jsx";
+import DoctorList from "./pages/Admin/DoctorList.jsx";
 import { DoctorContext } from "./context/DoctorContext.jsx";
 import DoctorDashboard from "./pages/Doctor/DoctorDashboard.jsx";
 import DoctorAppointment from "./pages/Doctor/DoctorAppointment.jsx";
